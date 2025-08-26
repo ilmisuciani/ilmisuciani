@@ -1,16 +1,20 @@
 ## Hi there 👋
+I’m Ilmi Suciani Sinambela, a Computer Science student passionate about Machine Learning, Data Science, and Application Development.
 
-<!--
-**ilmisuciani/ilmisuciani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy building impactful projects, exploring new technologies, and continuously improving my programming skills.
 
-Here are some ideas to get you started:
+📌 Current focus areas:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Machine Learning–based Recommender Systems
+
+Data Processing with Python & TensorFlow
+
+Data-driven Application Development
+
+📫 How to reach me
+
+GitHub: github.com/ilmisuciani
+
+LinkedIn: https://www.linkedin.com/in/ilmi-suciani-sinambela-188541286
+
+Email: ilmisuciani@gmail.com 
